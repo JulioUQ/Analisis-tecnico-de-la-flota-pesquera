@@ -24,5 +24,10 @@ Adjuntamos una guía que os puede ser útil para guiaros en el proceso de selecc
 
  Los datos geoespaciales se gestionan mediante Git LFS debido a su tamaño.
 
-
 ---
+
+## Resultado
+
+Como resultado se ha generado un DASHBOARD desde Streamlit que esta hosteado en ---> https://dgaxod9pyuaarzchppzo2l.streamlit.app/
+
+> Despiertalo si esta dormido....
