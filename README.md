@@ -1,5 +1,18 @@
-# Planteamiento y competencias de la Práctica
-## Planteamiento
+# Análisis · Evolución de la flota pesquera española
+
+Proyecto académico sobre la evolución de la flota española, con análisis de características técnicas y distribución geográfica y un panel desarrollado con Streamlit.
+
+## Tecnologías
+
+Python, Streamlit y datos geoespaciales
+
+## Explorar el repositorio
+
+- [`1. Antecedentes`](./1.%20Antecedentes)
+
+## Documentación
+
+#### Planteamiento
 
 Como actividad final de la asignatura, el estudiante tendrá que desarrollar una visualización de datos completa que tenga en cuenta todo lo  que se ha aprendido durante el proceso seguido: la inspiración de las buenas y malas prácticas, el uso y la elección adecuada de las técnicas y herramientas en función de los datos y el objetivo deseado, y la idoneidad de la interacción para narrar una historia a partir de los datos. El tema es libre, hecho que permite al estudiante explorar un ámbito de su interés, ya sea personal o profesional.
 
@@ -8,7 +21,7 @@ Así, en esta práctica final el estudiante primero deberá seleccionar un conju
 Adjuntamos una guía que os puede ser útil para guiaros en el proceso de selección del conjunto de datos y la conceptualización del proyecto de visualización de datos. En esta otra guía encontraréis un resumen de los conceptos clave relacionados con la preparación de los datos para su posterior manipulación.
 
 ---
-## Competencias
+#### Competencias
 
 ● CB9- Que los estudiantes sepan comunicar sus conclusiones –y los conocimientos y razones últimas que las sustentan– a públicos especializados y no especializados de un modo claro y sin ambigüedades.
 
@@ -26,8 +39,8 @@ Adjuntamos una guía que os puede ser útil para guiaros en el proceso de selecc
 
 ---
 
-## Resultado
+#### Resultado
 
-Como resultado se ha generado un DASHBOARD desde Streamlit que esta hosteado en ---> https://dgaxod9pyuaarzchppzo2l.streamlit.app/
+El proyecto incluye un panel desarrollado en Streamlit. El despliegue público anterior está pendiente de verificación.
 
 > Despiertalo si esta dormido....
